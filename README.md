@@ -5,11 +5,7 @@ Nikolay Arefyev, Dmitrii Kharchev, Artem Shelmanov. NB-MLM: Efficient Domain Ada
 https://aclanthology.org/2021.emnlp-main.717/
 
 ## Installation
-Clone NB-MLM repository from github.com.
-```shell script
-git clone https://github.com/TODO/taskadapt/
-cd taskadapt/ROBERTA
-```
+Clone this repository.
 
 ### Setup anaconda environment alternative
 1. Download and install [conda](https://conda.io/docs/user-guide/install/download.html)
