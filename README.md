@@ -7,7 +7,7 @@ https://aclanthology.org/2021.emnlp-main.717/
 ## Installation
 Clone this repository.
 
-### Setup anaconda environment alternative
+### Install Anaconda and create new environment
 1. Download and install [conda](https://conda.io/docs/user-guide/install/download.html)
 2. Create new conda environment and install dependencies
 ```shell script
@@ -18,7 +18,7 @@ Clone this repository.
    conda activate nbmlm
 ```
 
-### Setup fairseq right version
+### Install fairseq, verion 0.10.1 is required!
 1. Clone fairseq repository from github.com.
     ```shell script
     git clone https://github.com/pytorch/fairseq
