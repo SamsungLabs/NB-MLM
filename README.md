@@ -1,6 +1,8 @@
 # NB-MLM
 
-For more detailed information look comments into scripts from instruction.
+This is code for the paper:
+Nikolay Arefyev, Dmitrii Kharchev, Artem Shelmanov. NB-MLM: Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis
+https://aclanthology.org/2021.emnlp-main.717/
 
 ## Installation
 Clone NB-MLM repository from github.com.
