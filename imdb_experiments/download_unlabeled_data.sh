@@ -9,7 +9,9 @@ if ! [[ -d "$DATASET_DIR" ]]; then
 fi
 
 if ! [[ -d "$ORIG_DIR" ]]; then
-    bash "$DIR"/../filimdb_experiments/prepare_data/download.sh
+    cd "$DIR"/../filimdb_experiments/prepare_data/
+    bash download.sh
+    cd "$DIR"
 fi
 
 cp ${ORIG_DIR}/train_unlabeled.texts ${DATASET_DIR}
